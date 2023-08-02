@@ -6,12 +6,12 @@ This app is made using react and typescript. Main functionalities include creati
 
 1. clone this repository
 
-     git clone https://github.com/biruk-kassaw/todoapp.git
+          git clone https://github.com/biruk-kassaw/todoapp.git
 
 2. instal packages
 
-     npm install
+          npm install
 
 3. run the app
 
-     npm run
+          npm run
